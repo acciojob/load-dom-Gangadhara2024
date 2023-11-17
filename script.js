@@ -1,1 +1,3 @@
-//your JS code here. If required.
+function load() {
+	console.log("DOM load success");
+}
